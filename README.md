@@ -1,2 +1,2 @@
 # controle-horas-suporteN4
-Projeto criado para controle das horas de suporte
+Projeto criado para controle de horas de suporte
